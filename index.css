@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(#231A6A, #F33552);
+    color: white;
+    margin: 0;
+}
+header{
+    background: #714F5A;
+    padding: 40px;
+}
+img{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    padding-top:30px;
+    align-self: center;
+}
+h1{
+    text-align: center;
+}
+#img-1{
+    width: 50px;
+    height: 50px;
+}
+footer {
+    background: black;
+    color: white;
+    padding: 60px;
+}
+aside p {
+    text-align: right;
+}
