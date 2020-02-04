@@ -1,5 +1,5 @@
 body{
-    background: lightskyblue;
+    background: linear-gradient(red, lightblue);
 }
 body>*{
     width: 80%;
