@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(red, lightblue);
+    background: linear-gradient(rgb(121, 52, 52), rgb(93, 142, 158));
 }
 body>*{
     width: 80%;
