@@ -12,6 +12,12 @@ header ul{
     display: flex;
     justify-content: space-evenly;
 }
+header li {
+    text-decoration: none;
+}
+header li a:hover{
+    text-decoration: underline;
+}
 header nav a{
     color: white;
 }
@@ -78,4 +84,5 @@ footer li{
     display: flex;
     align-items: center;
     padding-bottom: 5px;
+    text-decoration: none;
 }
