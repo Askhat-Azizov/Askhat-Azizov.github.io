@@ -88,4 +88,8 @@ footer li{
 }
 div{
     border: 2px solid #022BE2;
+    width: 400px;
+}
+#ul{
+    text-align: right;
 }
