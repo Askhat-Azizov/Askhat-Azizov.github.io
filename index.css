@@ -86,3 +86,6 @@ footer li{
     padding-bottom: 5px;
     text-decoration: none;
 }
+div{
+    border: 2px solid #022BE2;
+}
