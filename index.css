@@ -12,10 +12,10 @@ header ul{
     display: flex;
     justify-content: space-evenly;
 }
-header li a {
+header ul li a {
     text-decoration: none;
 }
-header li a:hover{
+header ul a:hover{
     text-decoration: underline;
 }
 header nav a{
