@@ -86,10 +86,15 @@ footer li{
     padding-bottom: 5px;
     text-decoration: none;
 }
-div{
+#about{
     border: 2px solid #022BE2;
     width: 400px;
 }
 #ul{
+    text-align: right;
+}
+#contacts{
+    float: right;
+    white-space: nowrap;
     text-align: right;
 }
