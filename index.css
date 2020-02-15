@@ -3,7 +3,7 @@ body{
 }
 body>*{
     width: 80%;
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
 }
 header ul{
@@ -87,14 +87,13 @@ footer li{
     text-decoration: none;
 }
 #about{
-    border: 2px solid #022BE2;
-    width: 550px;
+    width: 650px;
+    max-width: 100%;
 }
 #ul{
     float: right;
     white-space: nowrap;
     list-style-type: none;
-    border: #022BE2 solid 2px;
 }
 #contacts{
     float: right;
@@ -107,4 +106,8 @@ footer li{
 #g-mail{
     text-decoration: none;
     color: black;
+}
+hr{
+    color: rgb(52, 89, 255);
+    font-size: 10px;
 }
