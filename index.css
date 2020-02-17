@@ -106,8 +106,11 @@ hr{
     color: rgb(52, 89, 255);
     font-size: 10px;
 }
+input{
+    width: 100%;
+}
 #input-4{
-    width: 400px;
+    max-width: 400px;
     margin: 25px;
     padding: 10px 20px;
     border: aqua 5px solid;
@@ -131,9 +134,13 @@ button{
     float: right;
     white-space: nowrap;
     height: 330px;
-    width: 400px;
+    max-width: 400px;
     margin: 25px;
     padding: 10px 20px;
     border: aqua 5px solid;
     font-size: 18px;
+}
+#main{
+   width: 100%;
+   max-width: 400px;
 }
