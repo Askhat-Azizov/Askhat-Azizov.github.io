@@ -15,11 +15,11 @@ let italic = document.querySelector("#example-4");
 let italicer = false;
 italic.oninput = function() {
     italicer = !italicer;
-    if(italic){
+    if(italicer){
         p.style.fontStyle = "oblique";
     }
     else{
-        p.style.fontStyle = "inherit";
+        p.style.fontStyle = "normal";
     }
 };
 let underline = document.querySelector("#example-5");
